@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay D",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "codice-fiscale-js": "^2.3.20",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemailer": "^6.8.0",
+    "qrcode": "^1.5.1",
+    "request": "^2.88.2",
+    "request-ip": "^3.3.0",
+    "speakeasy": "^2.0.0",
+    "stripe": "^11.1.0"
+  }
+}

@@ -1,0 +1,10590 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.validationErr {
+  color: red;
+}
+
+
+/* CSS By AJ */
+
+.colorton .multicolor {
+  cursor: pointer;
+}
+
+
+.topwearDiv {
+  /* background-color: #282c34; */
+  width: 100px;
+  height: 100px;
+  z-index: 2;
+}
+
+
+.bottom_58_40_34_39 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+
+/*------------ Height for ------------------ */
+.top_70_39_34_40 {
+  position: absolute;
+  top: 151px;
+  left: 152px;
+  width: 156px;
+  height: 145px;
+}
+
+
+.top_70_39_34_40 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.top_58_39_33_39 {
+  position: absolute;
+  top: 204px;
+  left: 161px;
+  width: 137px;
+  height: 140px;
+}
+
+.top_58_39_33_39 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.top_62_39_33_39 {
+  position: absolute;
+  top: 187px;
+  left: 163px;
+  width: 133px;
+  height: 140px;
+}
+
+.top_62_39_33_39 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.top_74_39_34_41 {
+  top: 134px;
+  left: 162px;
+  width: 133px;
+  height: 155px;
+  position: absolute;
+}
+
+.top_74_39_34_41 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.top_66_39_33_39 {
+  top: 170px;
+  left: 163px;
+  width: 133px;
+  height: 130px;
+  position: absolute;
+}
+
+.top_66_39_33_39 {
+  top: 170px;
+  left: 163px;
+  width: 133px;
+  height: 130px;
+  position: absolute;
+}
+
+.top_66_39_33_39 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.top_78_39_34_41 {
+  top: 119px;
+  left: 153px;
+  width: 153px;
+  height: 155px;
+  position: absolute;
+}
+
+.top_82_39_34_41 {
+  position: absolute;
+  top: 100px;
+  left: 150px;
+  width: 158px;
+  height: 175px;
+}
+
+.top_86_39_34_42 {
+  position: absolute;
+  top: 93px;
+  left: 147px;
+  width: 165px;
+  height: 175px;
+}
+
+
+
+/*------------ Chest for ------------------ */
+
+
+
+.top_70_31_26_34 {
+  position: absolute;
+  top: 154px;
+  left: 151px;
+  width: 156px;
+  height: 135px;
+}
+
+
+.top_70_31_26_34 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.top_70_35_30_37 {
+  position: absolute;
+  top: 154px;
+  left: 152px;
+  width: 156px;
+  height: 155px;
+}
+
+.top_70_43_38_43 {
+  position: absolute;
+  top: 152px;
+  left: 147px;
+  width: 164px;
+  height: 165px;
+}
+
+.top_70_47_42_45 {
+  position: absolute;
+  top: 153px;
+  left: 147px;
+  width: 164px;
+  height: 157px;
+}
+
+.top_70_51_45_47 {
+  position: absolute;
+  top: 153px;
+  left: 147px;
+  width: 164px;
+  height: 168px;
+}
+
+.top_70_55_48_49 {
+  position: absolute;
+  top: 151px;
+  left: 147px;
+  width: 164px;
+  height: 180px;
+}
+
+.top_70_59_52_52 {
+  position: absolute;
+  top: 150px;
+  left: 108px;
+  width: 241px;
+  height: 195px;
+}
+
+
+
+/*------------ Waist for ------------------ */
+
+
+
+.top_70_31_22_35 {
+  position: absolute;
+  top: 154px;
+  left: 152px;
+  width: 156px;
+  height: 155px
+}
+
+.top_70_31_22_35 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.top_58_40_34_39 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_40_34_39 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+
+
+
+.top_70_46_42_44 {
+  position: absolute;
+  top: 153px;
+  left: 151px;
+  width: 157px;
+  height: 155px;
+}
+
+.top_70_49_46_47 {
+  position: absolute;
+  top: 153px;
+  left: 151px;
+  width: 157px;
+  height: 165px;
+}
+
+.top_70_53_50_49 {
+  position: absolute;
+  top: 153px;
+  left: 151px;
+  width: 157px;
+  height: 180px;
+}
+
+.top_70_56_54_52 {
+  position: absolute;
+  top: 153px;
+  left: 145px;
+  width: 166px;
+  height: 193px;
+}
+
+
+
+/*------------ Hips for ------------------ */
+
+
+.top_70_33_27_31 {
+  position: absolute;
+  top: 154px;
+  left: 152px;
+  width: 156px;
+  height: 155px;
+}
+
+.top_70_33_27_31 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.top_70_34_29_35 {
+  position: absolute;
+  top: 154px;
+  left: 152px;
+  width: 156px;
+  height: 155px;
+}
+
+.top_70_38_33_39 {
+  position: absolute;
+  top: 155px;
+  left: 152px;
+  width: 156px;
+  height: 155px;
+}
+
+.top_70_48_43_47 {
+  position: absolute;
+  top: 150px;
+  left: 149px;
+  width: 160px;
+  height: 165px;
+}
+
+.top_70_52_48_51 {
+  position: absolute;
+  top: 150px;
+  left: 151px;
+  width: 156px;
+  height: 178px;
+}
+
+.top_70_56_52_55 {
+  position: absolute;
+  top: 147px;
+  left: 139px;
+  width: 180px;
+  height: 200px;
+}
+
+
+
+/* bottomwearDiv */
+
+
+
+.bottomwearDiv {
+  /* background-color: #282c34; */
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+}
+
+/*------------ Hieght for ------------------ */
+
+.bottom_70_39_34_40 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 188px;
+}
+
+.bottom_70_39_34_40 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.bottom_58_40_34_39 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_29_22_31 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_29_22_31 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.bottom_58_39_33_39 {
+  position: absolute;
+  bottom: 76px;
+  left: 181px;
+  width: 106px;
+  height: 164px;
+}
+
+.bottom_62_39_33_39 {
+  position: absolute;
+  bottom: 76px;
+  left: 170px;
+  width: 128px;
+  height: 175px;
+}
+
+.bottom_66_39_33_39 {
+  position: absolute;
+  bottom: 82px;
+  left: 169px;
+  width: 128px;
+  height: 175px;
+}
+
+.bottom_74_39_34_41 {
+  position: absolute;
+  bottom: 82px;
+  left: 168px;
+  width: 130px;
+  height: 195px;
+}
+
+.bottom_78_39_34_41 {
+  position: absolute;
+  bottom: 88px;
+  left: 182px;
+  width: 100px;
+  height: 204px;
+}
+
+.bottom_82_39_34_41 {
+  position: absolute;
+  bottom: 90px;
+  left: 168px;
+  width: 130px;
+  height: 210px;
+}
+
+.bottom_86_39_34_42 {
+  position: absolute;
+  bottom: 90px;
+  left: 168px;
+  width: 130px;
+  height: 210px;
+}
+
+
+/*------------ Chest for ------------------ */
+
+
+.bottom_70_31_26_34 {
+  position: absolute;
+  bottom: 81px;
+  left: 197px;
+  width: 72px;
+  height: 178px;
+}
+
+.bottom_70_31_26_34 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.bottom_70_35_30_37 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_43_38_43 {
+  position: absolute;
+  bottom: 81px;
+  left: 185px;
+  width: 100px;
+  height: 195px;
+}
+
+.bottom_70_47_42_45 {
+  position: absolute;
+  bottom: 80px;
+  left: 170px;
+  width: 128px;
+  height: 185px;
+}
+
+.bottom_70_51_45_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_55_48_49 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_59_52_52 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+
+
+/*------------ Waist for ------------------ */
+
+
+.bottom_70_31_22_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_31_22_35 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.bottom_70_46_42_44 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_49_46_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_53_50_49 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_56_54_52 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+
+
+/*------------ Hips for ------------------ */
+
+
+
+.bottom_70_33_27_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_33_27_31 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.bottom_70_34_29_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_48_43_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 172px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_38_33_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_52_48_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 169px;
+  width: 128px;
+  height: 195px;
+}
+
+.bottom_70_56_52_55 {
+  position: absolute;
+  bottom: 81px;
+  left: 170px;
+  width: 128px;
+  height: 195px;
+}
+
+
+
+
+
+
+/*------------- Height 58 from Chest ------------------ */
+
+.top_58_31_24_31 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_31_24_31 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_35_29_35 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_35_29_35 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_43_38_41 {
+  position: absolute;
+  top: 203px;
+  left: 151px;
+  width: 158px;
+  height: 140px;
+}
+
+.bottom_58_43_38_41 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_47_42_43 {
+  position: absolute;
+  top: 203px;
+  left: 151px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_58_47_42_43 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_51_43_45 {
+  position: absolute;
+  top: 203px;
+  left: 151px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_58_51_43_45 {
+  position: absolute;
+  bottom: 74px;
+  left: 182px;
+  width: 100px;
+  height: 170px;
+}
+
+.top_58_55_46_47 {
+  position: absolute;
+  top: 202px;
+  left: 150px;
+  width: 158px;
+  height: 175px;
+}
+
+.bottom_58_55_46_47 {
+  position: absolute;
+  bottom: 74px;
+  left: 182px;
+  width: 100px;
+  height: 170px;
+}
+
+.top_58_59_50_49 {
+  position: absolute;
+  top: 195px;
+  left: 149px;
+  width: 158px;
+  height: 195px;
+}
+
+.bottom_58_59_50_49 {
+  position: absolute;
+  bottom: 74px;
+  left: 182px;
+  width: 100px;
+  height: 170px;
+}
+
+
+/*------------- Height 58 from Waist ------------------ */
+
+.top_58_32_26_33 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_32_26_33 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_36_30_36 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_36_30_36 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_44_38_43 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 155px;
+}
+
+.bottom_58_44_38_43 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_50_46_46 {
+  position: absolute;
+  top: 203px;
+  left: 150px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_58_50_46_46 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_53_50_48 {
+  position: absolute;
+  top: 203px;
+  left: 150px;
+  width: 157px;
+  height: 175px;
+}
+
+.bottom_58_53_50_48 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_58_57_54_51 {
+  position: absolute;
+  top: 202px;
+  left: 140px;
+  width: 177px;
+  height: 185px;
+}
+
+.bottom_58_57_54_51 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+
+
+/*------------- Height 58 from Hips ------------------ */
+
+.top_58_32_26_33 {
+  position: absolute;
+  top: 205px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_58_32_26_33 {
+  position: absolute;
+  bottom: 74px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_58_49_43_47 {
+  position: absolute;
+  top: 200px;
+  left: 151px;
+  width: 158px;
+  height: 162px;
+}
+
+.bottom_58_49_43_47 {
+  position: absolute;
+  bottom: 74px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_58_53_48_51 {
+  position: absolute;
+  top: 200px;
+  left: 151px;
+  width: 158px;
+  height: 182px;
+}
+
+.bottom_58_53_48_51 {
+  position: absolute;
+  bottom: 74px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_58_57_52_55 {
+  position: absolute;
+  top: 200px;
+  left: 146px;
+  width: 165px;
+  height: 190px;
+}
+
+.bottom_58_57_52_55 {
+  position: absolute;
+  bottom: 74px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+
+/*------------- Height 62 from Chest ------------------ */
+
+.top_62_31_24_31 {
+  position: absolute;
+  top: 188px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_62_31_24_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 155px;
+}
+
+.top_62_35_29_35 {
+  position: absolute;
+  top: 188px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_62_35_29_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 155px;
+}
+
+.top_62_43_36_41 {
+  position: absolute;
+  top: 187px;
+  left: 151px;
+  width: 158px;
+  height: 152px;
+}
+
+.bottom_62_43_36_41 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 155px;
+}
+
+.top_62_47_40_43 {
+  position: absolute;
+  top: 187px;
+  left: 151px;
+  width: 158px;
+  height: 155px;
+}
+
+.bottom_62_47_40_43 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 170px;
+}
+
+.top_62_51_43_45 {
+  position: absolute;
+  top: 187px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_62_51_43_45 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_62_55_47_48 {
+  position: absolute;
+  top: 187px;
+  left: 151px;
+  width: 158px;
+  height: 175px;
+}
+
+.bottom_62_55_47_48 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+
+.top_62_59_50_50 {
+  position: absolute;
+  top: 187px;
+  left: 148px;
+  width: 160px;
+  height: 185px;
+}
+
+.bottom_62_59_50_50 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+
+/*------------- Height 62 from Waist ------------------ */
+
+.top_62_30_22_32 {
+  position: absolute;
+  top: 188px;
+  left: 151px;
+  width: 158px;
+  height: 140px;
+}
+
+.bottom_62_30_22_32 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 155px;
+}
+
+.top_62_32_26_33 {
+  position: absolute;
+  top: 188px;
+  left: 151px;
+  width: 158px;
+  height: 140px;
+}
+
+.bottom_62_32_26_33 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 155px;
+}
+
+.top_62_35_30_36 {
+  position: absolute;
+  top: 188px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_62_35_30_36 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 155px;
+}
+
+.top_62_40_34_39 {
+  position: absolute;
+  top: 188px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_62_40_34_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 160px;
+}
+
+.top_62_44_38_43 {
+  position: absolute;
+  top: 185px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_62_44_38_43 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_62_46_42_44 {
+  position: absolute;
+  top: 185px;
+  left: 151px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_62_46_42_44 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_62_50_46_46 {
+  position: absolute;
+  top: 185px;
+  left: 150px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_62_50_46_46 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_62_53_50_48 {
+  position: absolute;
+  top: 187px;
+  left: 150px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_62_53_50_48 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+
+.top_62_57_54_51 {
+  position: absolute;
+  top: 184px;
+  left: 145px;
+  width: 170px;
+  height: 200px;
+}
+
+.bottom_62_57_54_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+/*------------- Height 62 from Hips ------------------ */
+
+.top_62_48_43_47 {
+  position: absolute;
+  top: 185px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_62_48_43_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+
+.top_62_53_48_51 {
+  position: absolute;
+  top: 184px;
+  left: 151px;
+  width: 158px;
+  height: 185px;
+}
+
+.bottom_62_53_48_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+.top_62_57_52_55 {
+  position: absolute;
+  top: 182px;
+  left: 144px;
+  width: 168px;
+  height: 195px;
+}
+
+.bottom_62_57_52_55 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+/*------------- Height 66 from Chest ------------------ */
+
+.top_66_31_25_31 {
+  position: absolute;
+  top: 173px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_31_25_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_66_35_29_35 {
+  position: absolute;
+  top: 173px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_35_29_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+
+.top_66_43_38_43 {
+  position: absolute;
+  top: 170px;
+  left: 149px;
+  width: 160px;
+  height: 153px;
+}
+
+.bottom_66_43_38_43 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 172px;
+}
+
+.top_66_47_41_44 {
+  position: absolute;
+  top: 170px;
+  left: 149px;
+  width: 160px;
+  height: 153px;
+}
+
+.bottom_66_47_41_44 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 172px;
+}
+
+.top_66_51_44_46 {
+  position: absolute;
+  top: 171px;
+  left: 149px;
+  width: 160px;
+  height: 166px;
+}
+
+.bottom_66_51_44_46 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 172px;
+}
+
+.top_66_55_48_48 {
+  position: absolute;
+  top: 169px;
+  left: 149px;
+  width: 160px;
+  height: 177px;
+}
+
+.bottom_66_55_48_48 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 172px;
+}
+
+.top_66_59_51_51 {
+  position: absolute;
+  top: 165px;
+  left: 146px;
+  width: 165px;
+  height: 199px;
+}
+
+.bottom_66_59_51_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 182px;
+  width: 100px;
+  height: 184px;
+}
+
+
+/*------------- Height 66 from Waist ------------------ */
+
+.top_66_32_26_34 {
+  position: absolute;
+  top: 171px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_32_26_34 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+.top_66_35_30_37 {
+  position: absolute;
+  top: 171px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_35_30_37 {
+  position: absolute;
+  bottom: 70px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_66_40_34_39 {
+  position: absolute;
+  top: 170px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_40_34_39 {
+  position: absolute;
+  bottom: 75px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_66_46_42_44 {
+  position: absolute;
+  top: 170px;
+  left: 149px;
+  width: 160px;
+  height: 155px;
+}
+
+.bottom_66_46_42_44 {
+  position: absolute;
+  bottom: 75px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_66_49_46_46 {
+  position: absolute;
+  top: 170px;
+  left: 149px;
+  width: 160px;
+  height: 165px;
+}
+
+.bottom_66_49_46_46 {
+  position: absolute;
+  bottom: 75px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_66_53_50_49 {
+  position: absolute;
+  top: 170px;
+  left: 149px;
+  width: 160px;
+  height: 180px;
+}
+
+.bottom_66_53_50_49 {
+  position: absolute;
+  bottom: 75px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_66_56_54_52 {
+  position: absolute;
+  top: 165px;
+  left: 145px;
+  width: 166px;
+  height: 200px;
+}
+
+.bottom_66_56_54_52 {
+  position: absolute;
+  bottom: 75px;
+  left: 183px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_66_31_22_33 {
+  position: absolute;
+  top: 171px;
+  left: 151px;
+  width: 158px;
+  height: 142px;
+}
+
+.bottom_66_31_22_33 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+/*------------- Height 66 from Hips ------------------ */
+
+.top_66_32_26_34 {
+  position: absolute;
+  top: 171px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_32_26_34 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+
+.top_66_48_43_47 {
+  position: absolute;
+  top: 170px;
+  left: 151px;
+  width: 158px;
+  height: 168px;
+}
+
+.bottom_66_48_43_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 180px;
+}
+
+.top_66_52_48_51 {
+  position: absolute;
+  top: 170px;
+  left: 140px;
+  width: 177px;
+  height: 180px;
+}
+
+.bottom_66_52_48_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 185px;
+}
+
+
+.top_66_56_52_55 {
+  position: absolute;
+  top: 165px;
+  left: 140px;
+  width: 180px;
+  height: 200px;
+}
+
+.bottom_66_56_52_55 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 195px;
+}
+
+
+
+
+/*------------- Height 70 from Chest ------------------ */
+
+.top_66_31_25_31 {
+  position: absolute;
+  top: 170px;
+  left: 151px;
+  width: 158px;
+  height: 132px;
+}
+
+.bottom_66_31_25_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 165px;
+}
+
+/*------------- Height 74 from Chest ------------------ */
+
+.top_74_31_28_36 {
+  position: absolute;
+  top: 135px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_74_31_28_36 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_35_30_37 {
+  position: absolute;
+  top: 135px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_74_35_30_37 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_43_38_43 {
+  position: absolute;
+  top: 134px;
+  left: 150px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_74_43_38_43 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_47_43_47 {
+  position: absolute;
+  top: 134px;
+  left: 150px;
+  width: 158px;
+  height: 167px;
+}
+
+.bottom_74_47_43_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_51_45_48 {
+  position: absolute;
+  top: 135px;
+  left: 150px;
+  width: 158px;
+  height: 172px;
+}
+
+.bottom_74_51_45_48 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_55_49_50 {
+  position: absolute;
+  top: 132px;
+  left: 146px;
+  width: 165px;
+  height: 200px;
+}
+
+.bottom_74_55_49_50 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 192px;
+}
+
+.top_74_59_52_52 {
+  position: absolute;
+  top: 133px;
+  left: 142px;
+  width: 170px;
+  height: 200px;
+}
+
+.bottom_74_59_52_52 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 192px;
+}
+
+
+/*------------- Height 74 from Waist ------------------ */
+
+
+.top_74_33_22_36 {
+  position: absolute;
+  top: 136px;
+  left: 151px;
+  width: 158px;
+  height: 140px;
+}
+
+.bottom_74_33_22_36 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+
+.top_74_33_26_36 {
+  position: absolute;
+  top: 136px;
+  left: 151px;
+  width: 158px;
+  height: 140px;
+}
+
+.bottom_74_33_26_36 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_46_42_45 {
+  position: absolute;
+  top: 136px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_74_46_42_45 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_49_46_47 {
+  position: absolute;
+  top: 136px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_74_49_46_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_52_50_50 {
+  position: absolute;
+  top: 130px;
+  left: 149px;
+  width: 158px;
+  height: 200px;
+}
+
+.bottom_74_52_50_50 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_74_56_54_52 {
+  position: absolute;
+  top: 133px;
+  left: 143px;
+  width: 170px;
+  height: 200px;
+}
+
+.bottom_74_56_54_52 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+
+/*------------- Height 74 from Hips ------------------ */
+
+.top_74_34_29_31 {
+  position: absolute;
+  top: 137px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_74_34_29_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_74_38_33_39 {
+  position: absolute;
+  top: 137px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_74_38_33_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+.top_74_52_48_51 {
+  position: absolute;
+  top: 131px;
+  left: 150px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_74_52_48_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_74_56_52_55 {
+  position: absolute;
+  top: 120px;
+  left: 139px;
+  width: 180px;
+  height: 220px;
+}
+
+.bottom_74_56_52_55 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_74_34_29_35 {
+  position: absolute;
+  top: 137px;
+  left: 151px;
+  width: 158px;
+  height: 150px;
+}
+
+.bottom_74_34_29_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 175px;
+}
+
+
+/*------------- Height 78 from Chest ------------------ */
+
+
+.top_78_31_30_37 {
+  position: absolute;
+  top: 120px;
+  left: 151px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_78_31_30_37 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_43_39_44 {
+  position: absolute;
+  top: 118px;
+  left: 151px;
+  width: 158px;
+  height: 175px;
+}
+
+.bottom_78_43_39_44 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_47_43_47 {
+  position: absolute;
+  top: 117px;
+  left: 151px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_78_47_43_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_51_48_51 {
+  position: absolute;
+  top: 106px;
+  left: 149px;
+  width: 158px;
+  height: 200px;
+}
+
+.bottom_78_51_48_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+.top_78_55_52_55 {
+  position: absolute;
+  top: 108px;
+  left: 136px;
+  width: 185px;
+  height: 200px;
+}
+
+.bottom_78_55_52_55 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_78_59_53_53 {
+  position: absolute;
+  top: 116px;
+  left: 136px;
+  width: 185px;
+  height: 200px;
+}
+
+
+.bottom_82_39_34_41_8 {
+  bottom: 70px;
+  height: 175px;
+  left: 172px;
+  position: absolute;
+  width: 120px;
+}
+.bottom_78_59_53_53 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+
+/*------------- Height 78 from Waist ------------------ */
+
+
+.top_78_34_22_37 {
+  position: absolute;
+  top: 119px;
+  left: 151px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_78_34_22_37 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_33_26_37 {
+  position: absolute;
+  top: 119px;
+  left: 151px;
+  width: 158px;
+  height: 160px;
+}
+
+.bottom_78_33_26_37 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+
+.top_78_42_38_43 {
+  position: absolute;
+  top: 118px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_78_42_38_43 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_46_42_46 {
+  position: absolute;
+  top: 118px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_78_46_42_46 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_48_46_48 {
+  position: absolute;
+  top: 118px;
+  left: 151px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_78_48_46_48 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_52_50_50 {
+  position: absolute;
+  top: 119px;
+  left: 149px;
+  width: 160px;
+  height: 185px;
+}
+
+.bottom_78_52_50_50 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_56_54_53 {
+  position: absolute;
+  top: 118px;
+  left: 143px;
+  width: 170px;
+  height: 200px;
+}
+
+.bottom_78_56_54_53 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+
+.top_78_35_30_35 {
+  position: absolute;
+  top: 116px;
+  left: 151px;
+  width: 158px;
+  height: 156px;
+}
+
+.bottom_78_35_30_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+/*------------- Height 78 from Hips ------------------ */
+
+.top_78_35_30_31 {
+  position: absolute;
+  top: 120px;
+  left: 151px;
+  width: 158px;
+  height: 155px;
+}
+
+.bottom_78_35_30_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 185px;
+}
+
+.top_78_37_33_39 {
+  position: absolute;
+  top: 120px;
+  left: 151px;
+  width: 158px;
+  height: 155px;
+}
+
+.bottom_78_37_33_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+
+/*------------- Height 82 from Chest ------------------ */
+
+
+.top_82_31_31_39 {
+  position: absolute;
+  top: 101px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_82_31_31_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+
+.top_82_35_33_40 {
+  position: absolute;
+  top: 98px;
+  left: 152px;
+  width: 158px;
+  height: 175px;
+}
+
+.bottom_82_35_33_40 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+
+.top_82_43_40_44 {
+  position: absolute;
+  top: 100px;
+  left: 151px;
+  width: 158px;
+  height: 175px;
+}
+
+.bottom_82_43_40_44 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+.top_82_47_44_47 {
+  position: absolute;
+  top: 100px;
+  left: 151px;
+  width: 158px;
+  height: 175px;
+}
+
+.bottom_82_47_44_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+.top_82_51_48_51 {
+  position: absolute;
+  top: 94px;
+  left: 150px;
+  width: 158px;
+  height: 190px;
+}
+
+.bottom_82_51_48_51 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_82_55_50_52 {
+  position: absolute;
+  top: 99px;
+  left: 146px;
+  width: 165px;
+  height: 190px;
+}
+
+.bottom_82_55_50_52 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_82_59_54_54 {
+  position: absolute;
+  top: 99px;
+  left: 141px;
+  width: 175px;
+  height: 200px;
+}
+
+.bottom_82_59_54_54 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+
+/*------------- Height 82 from Waist ------------------ */
+
+.top_82_34_22_38 {
+  position: absolute;
+  top: 102px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_82_34_22_38 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_82_34_26_38 {
+  position: absolute;
+  top: 102px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_82_34_26_38 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+
+.top_82_34_30_38 {
+  position: absolute;
+  top: 102px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_82_34_30_38 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_82_42_38_43 {
+  position: absolute;
+  top: 99px;
+  left: 151px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_82_42_38_43 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_82_45_42_46 {
+  position: absolute;
+  top: 99px;
+  left: 151px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_82_45_42_46 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_82_48_46_48 {
+  position: absolute;
+  top: 99px;
+  left: 151px;
+  width: 158px;
+  height: 180px;
+}
+
+.bottom_82_48_46_48 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_82_52_50_51 {
+  position: absolute;
+  top: 92px;
+  left: 149px;
+  width: 158px;
+  height: 200px;
+}
+
+.bottom_82_52_50_51 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_82_56_54_53 {
+  position: absolute;
+  top: 101px;
+  left: 141px;
+  width: 175px;
+  height: 200px;
+}
+
+.bottom_82_56_54_53 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+
+/*------------- Height 82 from Hips ------------------ */
+
+.top_82_36_32_31 {
+  position: absolute;
+  top: 101px;
+  left: 148px;
+  width: 165px;
+  height: 165px;
+}
+
+.bottom_82_36_32_31 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+.top_82_36_32_35 {
+  position: absolute;
+  top: 101px;
+  left: 148px;
+  width: 165px;
+  height: 165px;
+}
+
+.bottom_82_36_32_35 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+.top_82_37_33_39 {
+  position: absolute;
+  top: 101px;
+  left: 148px;
+  width: 165px;
+  height: 165px;
+}
+
+.bottom_82_37_33_39 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+.top_82_46_43_47 {
+  position: absolute;
+  top: 98px;
+  left: 148px;
+  width: 165px;
+  height: 185px;
+}
+
+.bottom_82_46_43_47 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+.top_82_51_48_55 {
+  position: absolute;
+  top: 98px;
+  left: 148px;
+  width: 165px;
+  height: 185px;
+}
+
+.bottom_82_51_48_55 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 202px;
+}
+
+/*------------- Height 86 from Chest ------------------ */
+
+.top_82_36_32_31 {
+  position: absolute;
+  top: 101px;
+  left: 148px;
+  width: 165px;
+  height: 165px;
+}
+
+.bottom_82_36_32_31 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 190px;
+}
+
+.top_86_31_32_39 {
+  position: absolute;
+  top: 93px;
+  left: 147px;
+  width: 165px;
+  height: 165px;
+}
+
+.bottom_86_31_32_39 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_35_30_39 {
+  position: absolute;
+  top: 93px;
+  left: 147px;
+  width: 165px;
+  height: 165px;
+}
+
+.bottom_86_35_30_39 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_43_40_45 {
+  position: absolute;
+  top: 93px;
+  left: 147px;
+  width: 165px;
+  height: 175px;
+}
+
+.bottom_86_43_40_45 {
+  position: absolute;
+  bottom: 86px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_47_44_48 {
+  position: absolute;
+  top: 92px;
+  left: 147px;
+  width: 165px;
+  height: 175px;
+}
+
+.bottom_86_47_44_48 {
+  position: absolute;
+  bottom: 85px;
+  left: 183px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_86_51_47_50 {
+  position: absolute;
+  top: 92px;
+  left: 147px;
+  width: 165px;
+  height: 185px;
+}
+
+.bottom_86_51_47_50 {
+  position: absolute;
+  bottom: 85px;
+  left: 183px;
+  width: 100px;
+  height: 202px;
+}
+
+
+.top_86_55_51_52 {
+  position: absolute;
+  top: 89px;
+  left: 146px;
+  width: 165px;
+  height: 195px;
+}
+
+.bottom_86_55_51_52 {
+  position: absolute;
+  bottom: 85px;
+  left: 183px;
+  width: 100px;
+  height: 202px;
+}
+
+.top_86_59_54_54 {
+  position: absolute;
+  top: 91px;
+  left: 136px;
+  width: 185px;
+  height: 200px;
+}
+
+.bottom_86_59_54_54 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 202px;
+}
+
+/*------------- Height 86 from Waist ------------------ */
+
+
+.top_86_35_22_39 {
+  position: absolute;
+  top: 93px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_86_35_22_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+.top_86_35_26_39 {
+  position: absolute;
+  top: 93px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_86_35_26_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 195px;
+}
+
+.top_86_41_38_43 {
+  position: absolute;
+  top: 90px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_86_41_38_43 {
+  position: absolute;
+  bottom: 83px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_86_45_42_46 {
+  position: absolute;
+  top: 90px;
+  left: 151px;
+  width: 158px;
+  height: 170px;
+}
+
+.bottom_86_45_42_46 {
+  position: absolute;
+  bottom: 83px;
+  left: 184px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_86_48_46_48 {
+  position: absolute;
+  top: 88px;
+  left: 151px;
+  width: 158px;
+  height: 190px;
+}
+
+.bottom_86_48_46_48 {
+  position: absolute;
+  bottom: 83px;
+  left: 175px;
+  width: 116px;
+  height: 205px;
+}
+
+.top_86_53_50_51 {
+  position: absolute;
+  top: 89px;
+  left: 149px;
+  width: 158px;
+  height: 190px;
+}
+
+.bottom_86_53_50_51 {
+  position: absolute;
+  bottom: 83px;
+  left: 175px;
+  width: 116px;
+  height: 205px;
+}
+
+.top_86_56_54_54 {
+  position: absolute;
+  top: 90px;
+  left: 143px;
+  width: 170px;
+  height: 200px;
+}
+
+.bottom_86_56_54_54 {
+  position: absolute;
+  bottom: 83px;
+  left: 175px;
+  width: 116px;
+  height: 205px;
+}
+
+/*------------- Height 86 from Hips ------------------ */
+
+.top_86_36_32_31 {
+  position: absolute;
+  top: 93px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_86_36_32_31 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_36_32_35 {
+  position: absolute;
+  top: 93px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_86_36_32_35 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_37_33_39 {
+  position: absolute;
+  top: 93px;
+  left: 151px;
+  width: 158px;
+  height: 165px;
+}
+
+.bottom_86_37_33_39 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_46_43_47 {
+  position: absolute;
+  top: 88px;
+  left: 151px;
+  width: 158px;
+  height: 185px;
+}
+
+.bottom_86_46_43_47 {
+  position: absolute;
+  bottom: 81px;
+  left: 184px;
+  width: 100px;
+  height: 200px;
+}
+
+.top_86_50_48_51 {
+  position: absolute;
+  top: 88px;
+  left: 151px;
+  width: 158px;
+  height: 185px;
+}
+
+.bottom_86_50_48_51 {
+  position: absolute;
+  bottom: 81px;
+  left: 183px;
+  width: 100px;
+  height: 205px;
+}
+
+.top_86_54_52_55 {
+  position: absolute;
+  top: 79px;
+  left: 137px;
+  width: 185px;
+  height: 200px;
+}
+
+.bottom_86_54_52_55 {
+  position: absolute;
+  bottom: 84px;
+  left: 184px;
+  width: 100px;
+  height: 215px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.topwearDiv1{
+  width: 175px;
+  height: 200px;
+  position: relative;
+  bottom: 502px;
+  left: 233px;
+  z-index: 1;
+}
+
+.topwearDiv1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.bottomwearDiv1 {
+  width: 640px;
+  height: 220px;
+  position: absolute;
+  bottom: 288px;
+  left: 0px;
+  z-index: 0;
+}
+
+.bottomwearDiv1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.topwearDiv2{
+  width: 222px;
+  height: 240px;
+  position: relative;
+  bottom: 544px;
+  left: 210px;
+  z-index: 1;
+}
+
+.topwearDiv2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.bottomwearDiv2 {
+  width: 640px;
+  height: 270px;
+  position: absolute;
+  bottom: 288px;
+  left: 0px;
+  z-index: 0;
+}
+
+.bottomwearDiv2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.topwearDiv3{
+  width: 215px;
+  height: 223px;
+  position: relative;
+  bottom: 529px;
+  left: 215px;
+  z-index: 1;
+}
+
+.topwearDiv3 img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.bottomwearDiv3 {
+  width: 642px;
+  height: 267px;
+  position: absolute;
+  bottom: 278px;
+  left: 0px;
+  z-index: 0;
+}
+
+.bottomwearDiv3 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.topwearDiv4 {
+  width: 186px;
+  height: 215px;
+  position: relative;
+  bottom: 477px;
+  left: 228px;
+  z-index: 1;
+}
+
+.topwearDiv4 img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  transform: scaleX(1.15);
+}
+
+.bottomwearDiv4 {
+  width: 641px;
+  height: 230px;
+  position: absolute;
+  bottom: 278px;
+  left: 0px;
+  z-index: 0;
+}
+
+.bottomwearDiv4 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+} */
+
+.dummy-character {
+  width: 30px;
+  height: auto;
+  margin: 25px auto;
+}
+
+.dummy-character img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.sizeBtn {
+  width: 100%;
+  border: 1px solid lightgray !important;
+}
+
+.activeBtn {
+  background-color: #d3d4d5 !important;
+}
+
+.activeSubCat {
+  color: black !important;
+  font-weight: bold !important;
+  font-size: 16px !important;
+}
+
+.bottom_blur{
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 13px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/* End of CSS By AJ */
+
+
+/* 
+img.part1 {
+  position: absolute;
+  top: -82px;
+  left: 105px;
+  width: 155px;
+  height: 340px;
+}
+
+img.part2 {
+  position: absolute;
+  top: 79px;
+  left: 135px;
+  width: 95px;
+  height: 141px;
+}
+
+img.part3 {
+
+  position: absolute;
+  top: 131px;
+  left: 131px;
+  width: 104px;
+  height: 172px;
+
+}
+
+img.part4 {
+  position: absolute;
+  top: 258px;
+  left: 89px;
+  width: 189px;
+  height: 235px;
+} */
+
+.existable {
+  height: 200px;
+  overflow: auto;
+}
+
+#formGridState:focus {
+  box-shadow: none;
+  border-color: #ccc;
+}
+
+.logout.btn {
+  background: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.logout.btn:active {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.navbar button.menutoggle {
+  border: none;
+}
+
+.navbar button.menutoggle:focus {
+  box-shadow: none;
+}
+
+
+
+/*----------------------------- Face Height 58 from Chest------------------------------- */
+
+.facebox {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.facebox_70_31_26_34 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 97px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_39_34_40 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_58_31_24_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 148px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_58_31_24_31 .bottom_blur{
+  width: 33px;
+  height: 25px;
+  border-radius: 5px;
+  left: 10px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_35_29_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 147px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_35_29_35 .bottom_blur{
+  width: 33px;
+  height: 25px;
+  border-radius: 5px;
+  left: 10px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_39_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 145px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_39_33_39 .bottom_blur{
+    width: 33px;
+    height: 25px;
+    border-radius: 5px;
+    left: 12px;
+    filter: blur(1px);
+    position: relative;
+    top: -3px;
+}
+
+.facebox_58_43_38_41 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 145px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_43_38_41 .bottom_blur{
+  width: 33px;
+  height: 25px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_47_42_43 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 140px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_47_42_43 .bottom_blur{
+  width: 33px;
+  height: 25px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_51_43_45 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 140px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_51_43_45 .bottom_blur{
+  width: 33px;
+  height: 25px;
+  border-radius: 5px;
+  left: 17px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_55_46_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 140px;
+  left: 194px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_55_46_47 .bottom_blur{
+  width: 33px;
+  height: 25px;
+  border-radius: 5px;
+  left: 17px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_59_50_49 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 140px;
+  left: 194px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_59_50_49 .bottom_blur{
+  width: 40px;
+  height: 25px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+
+/*----------------------------- Face Height 58 from Waist------------------------------- */
+
+.facebox_58_29_22_31 {
+  width: 57px;
+  height: 60px;
+  position: absolute;
+  top: 148px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_29_22_31 .bottom_blur{
+  width: 28px;
+  height: 25px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_32_26_33 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 148px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_32_26_33 .bottom_blur{
+  width: 28px;
+  height: 25px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_36_30_36 {
+  width: 54px;
+  height: 60px;
+  position: absolute;
+  top: 149px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_36_30_36 .bottom_blur{
+  width: 28px;
+  height: 25px;
+  border-radius: 4px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -5px;
+}
+
+.facebox_58_40_34_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 146px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_40_34_39 .bottom_blur{
+  width: 31px;
+  height: 25px;
+  border-radius: 4px;
+  left: 16px;
+  filter: blur(1px);
+  position: relative;
+  top: -3px;
+}
+
+.facebox_58_44_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 145px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_44_38_43 .bottom_blur{
+  width: 32px;
+  border-radius: 4px;
+  left: 12px;
+  top: -3px;
+}
+
+.facebox_58_50_46_46 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 145px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+.facebox_58_53_50_48 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 140px;
+  left: 193px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_53_50_48 .bottom_blur{
+  width: 32px;
+  border-radius: 4px;
+  left: 16px;
+  top: -3px;
+}
+
+.facebox_58_57_54_51 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 135px;
+  left: 192px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_58_57_54_51 .bottom_blur{
+  width: 32px;
+  border-radius: 4px;
+  left: 18px;
+  top: -3px;
+}
+
+
+
+/*----------------------------- Face Height 58 from Hips------------------------------- */
+
+.facebox_58_49_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 140px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_58_49_43_47 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 10px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+.facebox_58_53_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 137px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_58_53_48_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 12px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_58_57_52_55 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 135px;
+  left: 191px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_58_57_52_55 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 20px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+/*----------------------------- Face Height 62 from Chest------------------------------- */
+
+.facebox_62_31_24_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_31_24_31 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 12px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_62_35_29_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 12px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+.facebox_62_39_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_39_33_39 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 11px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_62_43_36_41 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+
+.facebox_62_47_40_43 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_51_43_45 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+.facebox_62_55_47_48 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_59_50_50 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_59_50_50 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 16px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 62 from Waist------------------------------- */
+
+.facebox_62_30_22_32 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+.facebox_62_32_26_33 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_35_30_36 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_40_34_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_44_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_46_42_44 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_46_42_44 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_62_50_46_46 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_53_50_48 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_53_50_48 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_62_57_54_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+/*----------------------------- Face Height 62 from Hips------------------------------- */
+
+.facebox_62_48_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_53_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 125px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_57_52_55 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 118px;
+  left: 194px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_62_57_52_55 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 14px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+/*----------------------------- Face Height 66 from Chest------------------------------- */
+
+
+.facebox_66_31_25_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 115px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_35_29_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 115px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_39_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_43_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_47_41_44 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_51_44_46 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 110px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_55_48_48 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 106px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_55_48_48 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 14px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_66_59_51_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 107px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_59_51_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+/*----------------------------- Face Height 66 from Waist------------------------------- */
+
+.facebox_66_31_22_33 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_32_26_34 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_35_30_37 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_40_34_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_46_42_44 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_49_46_46 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 112px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_53_50_49 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 107px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_53_50_49 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 14px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_66_56_54_52 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 107px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_56_54_52 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 14px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 66 from Hips------------------------------- */
+
+.facebox_66_48_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 107px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_48_43_47 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_66_52_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 107px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_66_56_52_55 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 104px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_59_52_52 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 80px;
+  left: 193px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_56_52_55 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 86px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+/*----------------------------- Face Height 70 from Chest ------------------------------- */
+
+.facebox_70_31_26_34 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 97px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_35_30_37 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_43_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_47_42_45 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_51_45_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 92px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_55_48_49 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 90px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_59_52_52 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 86px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_59_52_52 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+/*----------------------------- Face Height 70 from Waist ------------------------------- */
+.facebox_70_31_22_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_46_42_44 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+.facebox_70_49_46_47 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_53_50_49 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_53_50_49 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_70_56_54_52 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 92px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_56_54_52 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 14px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 70 from Hips ------------------------------- */
+
+.facebox_70_33_27_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_34_29_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_38_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 95px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_48_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 90px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_70_52_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 86px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+.facebox_70_52_48_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 74 from Chest ------------------------------- */
+
+.facebox_74_31_28_36 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_35_30_37 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_39_34_41 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_43_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_47_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 70px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_47_43_47 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_74_51_45_48 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 75px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_55_49_50 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 75px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_59_52_52 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 73px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_59_52_52 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 74 from Waist ------------------------------- */
+
+.facebox_74_33_22_36 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_33_26_36 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_46_42_45 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_49_46_47 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_52_50_50 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 75px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_52_50_50 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_74_56_54_52 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 70px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_56_54_52 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 74 from Hips ------------------------------- */
+
+.facebox_74_34_29_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_34_29_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_38_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 78px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_52_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 70px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_52_48_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_74_56_52_55 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 65px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_74_56_52_55 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 78 from Chest ------------------------------- */
+
+.facebox_78_31_30_37 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 62px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_35_30_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 58px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_39_34_41 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+    left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_43_39_44 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 58px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_43_39_44 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 14px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+.facebox_78_47_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 55px;
+  left: 196px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+.facebox_78_47_43_47 .bottom_blur{
+  width: 32px;
+  border-radius: 4px;
+  left: 18px;
+  top: -3px;
+}
+
+.facebox_78_51_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 52px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_51_48_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_78_55_52_55 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 45px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_55_52_55 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_78_59_53_53 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 52px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_59_53_53 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 78 from Waist ------------------------------- */
+
+.facebox_78_34_22_37 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_33_26_37 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_42_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_46_42_46 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_48_46_48 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 199px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_52_50_50 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 55px;
+  left: 197px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_52_50_50 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_78_56_54_53 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 55px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_78_56_54_53 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+/*----------------------------- Face Height 78 from Hips ------------------------------- */
+
+.facebox_78_35_30_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+
+.facebox_78_37_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+/*----------------------------- Face Height 82 from Chest ------------------------------- */
+
+.facebox_82_31_31_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_35_33_40 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 37px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_39_34_41 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 43px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_43_40_44 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_47_44_47 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_51_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 35px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_51_48_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_82_55_50_52 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 35px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_55_50_52 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_82_59_54_54 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 35px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_59_54_54 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+/*----------------------------- Face Height 82 from Waist ------------------------------- */
+
+.facebox_82_34_22_38 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_34_26_38 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_34_30_38 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_42_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_45_42_46 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_48_46_48 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_52_50_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 35px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_52_50_51 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_82_56_54_53 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 35px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_56_54_53 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+/*----------------------------- Face Height 82 from Hips ------------------------------- */
+
+.facebox_82_36_32_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 44px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_36_32_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 44px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_37_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 44px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_46_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 35px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_82_46_43_47 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_82_51_48_55 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 44px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+/*----------------------------- Face Height 86 from Chest ------------------------------- */
+
+.facebox_86_31_32_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_35_30_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_39_34_42 {
+  width: 66px;
+  height: 63px;
+  position: absolute;
+  top: 32px;
+  left: 193px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_43_40_45 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_47_44_48 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_51_47_50 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_55_51_52 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_59_54_54 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 30px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+/*----------------------------- Face Height 86 from Waist ------------------------------- */
+
+.facebox_86_35_22_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_35_26_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_41_38_43 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_45_42_46 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_48_46_48 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_53_50_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 30px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_56_54_54 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 30px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+
+.facebox_86_56_54_54 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+/*----------------------------- Face Height 86 from Hips ------------------------------- */
+
+.facebox_86_36_32_31 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_36_32_35 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_37_33_39 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_46_43_47 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 25px;
+  left: 198px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_46_43_47 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_86_50_48_51 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 25px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_54_52_55 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 15px;
+  left: 195px;
+  border-radius: 50%;
+  background: #eaf0f3;
+}
+
+.facebox_86_54_52_55 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+.facebox_86_54_52_55 .bottom_blur {
+  width: 35px;
+  height: 20px;
+  border-radius: 5px;
+  left: 15px;
+  filter: blur(1px);
+  position: relative;
+  top: -4px;
+}
+
+
+
+#preview {
+  margin-top: 1rem;
+  width:300px;
+}
+
+.uploadcare--menu__item_tab_url,
+.uploadcare--menu__item_tab_facebook,
+.uploadcare--menu__item_tab_gdrive,
+.uploadcare--menu__item_tab_gphotos,
+.uploadcare--menu__item_tab_dropbox,
+.uploadcare--menu__item_tab_instagram,
+.uploadcare--menu__item_tab_evernote,
+.uploadcare--menu__item_tab_flickr,
+.uploadcare--menu__item_tab_onedrive {
+  display: none;
+}
+
+
+/*----------------------------- Shoes Css------------------------------- */
+
+.shoes_box1 {
+  position: absolute;
+  bottom: 45px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+
+.shoes_box1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.shoes_box2 {
+  position: absolute;
+  bottom: 45px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_box2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.shoes_left_70_39_34_40 {
+  position: absolute;
+  bottom: 45px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_39_34_40 {
+  position: absolute;
+  bottom: 45px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+
+
+/*-------------  Shoes Height 58 from Chest ------------------ */
+
+.shoes_left_58_31_24_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_31_24_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_35_29_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_35_29_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_39_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_39_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_43_38_41 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_43_38_41 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_47_42_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_47_42_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_51_43_45 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_51_43_45 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_55_46_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_55_46_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_59_50_49 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_59_50_49 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 58 from Waist ------------------ */
+
+.shoes_left_58_29_22_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_29_22_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_32_26_33 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_32_26_33 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_36_30_36 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_36_30_36 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_40_34_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_40_34_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_44_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_44_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_50_46_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_50_46_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_53_50_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_53_50_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_57_54_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_57_54_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 58 from Hips ------------------ */
+
+
+.shoes_left_58_49_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_49_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_53_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_53_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_58_57_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_58_57_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 62 from Chest ------------------ */
+
+.shoes_left_62_31_24_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_31_24_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_35_29_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_35_29_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_39_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_39_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_43_36_41 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_43_36_41 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_47_40_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_47_40_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_51_43_45 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_51_43_45 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_55_47_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 181px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_55_47_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_59_50_50 {
+  position: absolute;
+  bottom: 35px;
+  left: 181px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_59_50_50 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 62 from Waist ------------------ */
+
+.shoes_left_62_30_22_32 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_30_22_32 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_32_26_33 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_32_26_33 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_35_30_36 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_35_30_36 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_40_34_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_40_34_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_44_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_44_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_46_42_44 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_46_42_44 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_50_46_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_50_46_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_53_50_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_53_50_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_57_54_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 181px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_57_54_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 62 from Hips ------------------ */
+
+
+.shoes_left_62_48_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_48_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_53_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_53_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_62_57_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_62_57_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 66 from Chest ------------------ */
+
+.shoes_left_66_31_25_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_31_25_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_35_29_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_35_29_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_39_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_39_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_43_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_43_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_47_41_44 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_47_41_44 {
+  position: absolute;
+  bottom: 35px;
+  right: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_51_44_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_51_44_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_55_48_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_55_48_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_59_51_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_59_51_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 66 from Waist ------------------ */
+
+.shoes_left_66_31_22_33 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_31_22_33 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_32_26_34 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_32_26_34 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_35_30_37 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_35_30_37 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_40_34_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 185px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_40_34_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_46_42_44 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_46_42_44 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_49_46_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_49_46_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_53_50_49 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_53_50_49 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_56_54_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_56_54_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 66 from Hips ------------------ */
+
+
+.shoes_left_66_48_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_48_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_52_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_52_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_66_56_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_66_56_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 70 from Chest ------------------ */
+
+.shoes_left_70_31_26_34 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_31_26_34 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_35_30_37 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_35_30_37 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_43_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_43_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_47_42_45 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_47_42_45 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_51_45_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_51_45_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_55_48_49 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_55_48_49 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_59_52_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_59_52_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 70 from Waist ------------------ */
+
+.shoes_left_70_31_22_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_31_22_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_46_42_44 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_46_42_44 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_49_46_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_49_46_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_53_50_49 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_53_50_49 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_56_54_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_56_54_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 70 from Hips ------------------ */
+
+.shoes_left_70_33_27_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_33_27_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_34_29_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_34_29_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_38_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_38_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_48_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_48_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_52_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_52_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_70_56_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_70_56_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 74 from Chest ------------------ */
+
+.shoes_left_74_31_28_36 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_31_28_36 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_35_30_37 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_35_30_37 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_39_34_41 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_39_34_41 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_43_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_43_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_47_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_47_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_51_45_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_51_45_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_55_49_50 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_55_49_50 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_59_52_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_59_52_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 74 from Waist ------------------ */
+
+.shoes_left_74_33_22_36 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_33_22_36 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_33_26_36 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_33_26_36 {
+  position: absolute;
+  bottom: 35px;
+  right: 177px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_46_42_45 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_46_42_45 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_49_46_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_49_46_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_52_50_50 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_52_50_50 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_56_54_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_56_54_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 74 from Hips ------------------ */
+
+
+.shoes_left_74_34_29_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_34_29_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_34_29_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_34_29_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_38_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_38_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_52_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_52_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_74_56_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_74_56_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 78 from Chest ------------------ */
+
+.shoes_left_78_31_30_37 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_31_30_37 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_35_30_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_35_30_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_39_34_41 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_39_34_41 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_43_39_44 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_43_39_44 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_47_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_47_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_51_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_51_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 173px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_55_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_55_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_59_53_53 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_59_53_53 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 78 from Waist ------------------ */
+
+.shoes_left_78_34_22_37 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_34_22_37 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_33_26_37 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_33_26_37 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_42_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_42_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_46_42_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_46_42_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_48_46_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_48_46_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_52_50_50 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_52_50_50 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_56_54_53 {
+  position: absolute;
+  bottom: 35px;
+  left: 176px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_56_54_53 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 78 from Hips ------------------ */
+
+.shoes_left_78_35_30_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_35_30_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_78_37_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_78_37_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+
+/*-------------  Shoes Height 82 from Chest ------------------ */
+
+.shoes_left_82_31_31_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_31_31_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_35_33_40 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_35_33_40 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_37_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_37_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_39_34_41 {
+  position: absolute;
+  bottom: 40px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_39_34_41 {
+  position: absolute;
+  bottom: 40px;
+  right: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_43_40_44 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_43_40_44 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_47_44_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_47_44_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_51_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_51_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_55_50_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_55_50_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_59_54_54 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_59_54_54 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 82 from Waist ------------------ */
+
+.shoes_left_82_34_22_38 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_34_22_38 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+
+.shoes_left_82_34_26_38 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_34_26_38 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_34_30_38 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_34_30_38 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_45_42_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_45_42_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_48_46_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_48_46_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_52_50_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_52_50_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_56_54_53 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_56_54_53 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 82 from Hips ------------------ */
+
+.shoes_left_82_36_32_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_36_32_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_36_32_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_36_32_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_37_33_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_37_33_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_42_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_42_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_46_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_46_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_82_51_48_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_82_51_48_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 86 from Chest ------------------ */
+
+.shoes_left_86_31_32_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_31_32_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_35_30_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_35_30_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_39_34_42 {
+  position: absolute;
+  bottom: 40px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_39_34_42 {
+  position: absolute;
+  bottom: 40px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_43_40_45 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_43_40_45 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_47_44_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_47_44_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_51_47_50 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_51_47_50 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_55_51_52 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_55_51_52 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_59_54_54 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_59_54_54 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 86 from Waist ------------------ */
+
+
+.shoes_left_86_35_22_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_35_22_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+
+.shoes_left_86_35_26_39 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_35_26_39 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_41_38_43 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_41_38_43 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_45_42_46 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_45_42_46 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_48_46_48 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_48_46_48 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_53_50_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_53_50_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_56_54_54 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_56_54_54 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+/*-------------  Shoes Height 86 from Hips ------------------ */
+
+.shoes_left_86_36_32_31 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_36_32_31 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_36_32_35 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_36_32_35 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_46_43_47 {
+  position: absolute;
+  bottom: 35px;
+  left: 178px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_46_43_47 {
+  position: absolute;
+  bottom: 35px;
+  right: 172px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_left_86_50_48_51 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_50_48_51 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+
+.shoes_left_86_54_52_55 {
+  position: absolute;
+  bottom: 35px;
+  left: 175px;
+  width: 55px;
+  height: 55px;
+}
+
+.shoes_right_86_54_52_55 {
+  position: absolute;
+  bottom: 35px;
+  right: 170px;
+  width: 55px;
+  height: 55px;
+}
+
+
+
+
+/*-------------  Shirt Height 58 from Chest ------------------ */
+
+
+.top_58_31_24_31_6 {
+  position: absolute;
+  top: 155px;
+  left: 145px;
+  width: 170px;
+  height: 220px;
+}
+
+.top_58_35_29_35_6 {
+  position: absolute;
+  top: 155px;
+  left: 142px;
+  width: 175px;
+  height: 220px;
+}
+
+.top_58_39_33_39_6 {
+  position: absolute;
+  top: 155px;
+  left: 140px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_58_43_38_41_6 {
+  position: absolute;
+  top: 184px;
+  left: 131px;
+  width: 200px;
+  height: 160px;
+}
+
+.top_58_47_42_43_6 {
+  position: absolute;
+  top: 175px;
+  left: 133px;
+  width: 195px;
+  height: 195px;
+}
+
+.top_58_51_43_45_6 {
+  position: absolute;
+  top: 178px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_58_55_46_47_6 {
+  position: absolute;
+  top: 182px;
+  left: 120px;
+  width: 220px;
+  height: 190px;
+}
+
+.top_58_59_50_49_6 {
+  position: absolute;
+  top: 182px;
+  left: 120px;
+  width: 220px;
+  height: 195px;
+}
+
+
+/*-------------  Shirt Height 58 from Waist ------------------ */
+
+.top_58_29_22_31_6 {
+  position: absolute;
+  top: 180px;
+  left: 146px;
+  width: 170px;
+  height: 170px;
+}
+
+.top_58_32_26_33_6 {
+  position: absolute;
+  top: 180px;
+  left: 146px;
+  width: 170px;
+  height: 170px;
+}
+
+.top_58_36_30_36_6 {
+  position: absolute;
+  top: 180px;
+  left: 143px;
+  width: 175px;
+  height: 170px;
+}
+
+.top_58_40_34_39_6 {
+  position: absolute;
+  top: 180px;
+  left: 138px;
+  width: 185px;
+  height: 180px;
+}
+
+.top_58_44_38_43_6 {
+  position: absolute;
+  top: 180px;
+  left: 138px;
+  width: 185px;
+  height: 180px;
+}
+
+.top_58_50_46_46_6 {
+  position: absolute;
+  top: 180px;
+  left: 133px;
+  width: 194px;
+  height: 185px;
+}
+
+.top_58_53_50_48_6 {
+  position: absolute;
+  top: 180px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_58_57_54_51_6 {
+  position: absolute;
+  top: 180px;
+  left: 125px;
+  width: 210px;
+  height: 185px;
+}
+
+/*-------------  Shirt Height 58 from Hips ------------------ */
+
+.top_58_49_43_47_6 {
+  position: absolute;
+  top: 180px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_58_53_48_51_6 {
+  position: absolute;
+  top: 180px;
+  left: 125px;
+  width: 210px;
+  height: 185px;
+}
+
+
+.top_58_57_52_55_6 {
+  position: absolute;
+  top: 180px;
+  left: 110px;
+  width: 240px;
+  height: 190px;
+}
+
+
+/*-------------  Shirt Height 62 from Chest ------------------ */
+
+
+.top_62_31_24_31_6 {
+  position: absolute;
+  top: 140px;
+  left: 145px;
+  width: 170px;
+  height: 220px;
+}
+
+.top_62_35_29_35_6 {
+  position: absolute;
+  top: 140px;
+  left: 142px;
+  width: 175px;
+  height: 220px;
+}
+
+.top_62_39_33_39_6 {
+  position: absolute;
+  top: 140px;
+  left: 142px;
+  width: 175px;
+  height: 220px;
+}
+
+.top_62_43_36_41_6 {
+  position: absolute;
+  top: 145px;
+  left: 135px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_62_47_40_43_6 {
+  position: absolute;
+  top: 145px;
+  left: 135px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_62_51_43_45_6 {
+  position: absolute;
+  top: 148px;
+  left: 130px;
+  width: 200px;
+  height: 220px;
+}
+
+.top_62_55_47_48_6 {
+  position: absolute;
+  top: 148px;
+  left: 125px;
+  width: 210px;
+  height: 220px;
+}
+
+
+.top_62_59_50_50_6 {
+  position: absolute;
+  top: 148px;
+  left: 125px;
+  width: 210px;
+  height: 220px;
+}
+
+
+/*-------------  Shirt Height 62 from Waist ------------------ */
+
+
+.top_62_30_22_32_6 {
+  position: absolute;
+  top: 140px;
+  left: 145px;
+  width: 170px;
+  height: 220px;
+}
+
+.top_62_32_26_33_6 {
+  position: absolute;
+  top: 140px;
+  left: 145px;
+  width: 170px;
+  height: 220px;
+}
+
+.top_62_35_30_36_6 {
+  position: absolute;
+  top: 140px;
+  left: 145px;
+  width: 170px;
+  height: 220px;
+}
+
+.top_62_40_34_39_6 {
+  position: absolute;
+  top: 140px;
+  left: 141px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_62_44_38_43_6 {
+  position: absolute;
+  top: 143px;
+  left: 138px;
+  width: 185px;
+  height: 220px;
+}
+
+.top_62_46_42_44_6 {
+  position: absolute;
+  top: 143px;
+  left: 138px;
+  width: 185px;
+  height: 220px;
+}
+
+.top_62_50_46_46_6 {
+  position: absolute;
+  top: 148px;
+  left: 129px;
+  width: 200px;
+  height: 218px;
+}
+
+.top_62_53_50_48_6 {
+  position: absolute;
+  top: 150px;
+  left: 126px;
+  width: 207px;
+  height: 218px;
+}
+
+.top_62_57_54_51_6 {
+  position: absolute;
+  top: 150px;
+  left: 124px;
+  width: 210px;
+  height: 218px;
+}
+
+/*-------------  Shirt Height 62 from Hips ------------------ */
+
+.top_62_48_43_47_6 {
+  position: absolute;
+  top: 168px;
+  left: 126px;
+  width: 210px;
+  height: 185px;
+}
+
+.top_62_53_48_51_6 {
+  position: absolute;
+  top: 166px;
+  left: 120px;
+  width: 220px;
+  height: 185px;
+}
+
+
+.top_62_57_52_55_6 {
+  position: absolute;
+  top: 160px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+
+/*-------------  Shirt Height 66 from Chest ------------------ */
+
+.top_66_31_25_31_6 {
+  position: absolute;
+  top: 148px;
+  left: 142px;
+  width: 180px;
+  height: 175px;
+}
+
+.top_66_35_29_35_6 {
+  position: absolute;
+  top: 147px;
+  left: 135px;
+  width: 190px;
+  height: 185px;
+}
+
+.top_66_39_33_39_6 {
+  position: absolute;
+  top: 147px;
+  left: 135px;
+  width: 190px;
+  height: 185px;
+}
+
+.top_66_43_38_43_6 {
+  position: absolute;
+  top: 147px;
+  left: 133px;
+  width: 195px;
+  height: 185px;
+}
+
+.top_66_47_41_44_6 {
+  position: absolute;
+  top: 147px;
+  left: 130px;
+  width: 200px;
+  height: 188px;
+}
+
+.top_66_51_44_46_6 {
+  position: absolute;
+  top: 147px;
+  left: 124px;
+  width: 210px;
+  height: 191px;
+}
+
+.top_66_55_48_48_6 {
+  position: absolute;
+  top: 147px;
+  left: 120px;
+  width: 220px;
+  height: 191px;
+}
+
+.top_66_59_51_51_6 {
+  position: absolute;
+  top: 147px;
+  left: 120px;
+  width: 220px;
+  height: 191px;
+}
+
+/*-------------  Shirt Height 66 from Waist ------------------ */
+
+.top_66_31_22_33_6 {
+  position: absolute;
+  top: 125px;
+  left: 141px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_66_32_26_34_6 {
+  position: absolute;
+  top: 125px;
+  left: 141px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_66_35_30_37_6 {
+  position: absolute;
+  top: 125px;
+  left: 141px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_66_40_34_39_6 {
+  position: absolute;
+  top: 125px;
+  left: 141px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_66_46_42_44_6 {
+  position: absolute;
+  top: 125px;
+  left: 135px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_66_49_46_46_6 {
+  position: absolute;
+  top: 125px;
+  left: 135px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_66_53_50_49_6 {
+  position: absolute;
+  top: 135px;
+  left: 125px;
+  width: 210px;
+  height: 220px;
+}
+
+.top_66_56_54_52_6 {
+  position: absolute;
+  top: 138px;
+  left: 120px;
+  width: 220px;
+  height: 220px;
+}
+
+/*-------------  Shirt Height 66 from hips ------------------ */
+
+.top_66_48_43_47_6 {
+  position: absolute;
+  top: 150px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_66_52_48_51_6 {
+  position: absolute;
+  top: 150px;
+  left: 125px;
+  width: 210px;
+  height: 185px;
+}
+.top_66_56_52_55_6 {
+  position: absolute;
+  top: 145px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 70 from Chest ------------------ */
+
+
+.top_70_31_26_34_6 {
+  position: absolute;
+  top: 108px;
+  left: 141px;
+  width: 180px;
+  height: 220px;
+}
+
+.top_70_35_30_37_6 {
+  position: absolute;
+  top: 113px;
+  left: 136px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_70_39_34_40_6 {
+  position: absolute;
+  top: 113px;
+  left: 136px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_70_43_38_43_6 {
+  position: absolute;
+  top: 113px;
+  left: 136px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_70_47_42_45_6 {
+  position: absolute;
+  top: 112px;
+  left: 135px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_70_51_45_47_6 {
+  position: absolute;
+  top: 117px;
+  left: 127px;
+  width: 205px;
+  height: 220px;
+}
+
+.top_70_59_52_52_6 {
+  position: absolute;
+  top: 117px;
+  left: 119px;
+  width: 220px;
+  height: 220px;
+}
+
+/*-------------  Shirt Height 70 from Waist ------------------ */
+
+
+.top_70_31_22_35_6 {
+  position: absolute;
+  top: 114px;
+  left: 136px;
+  width: 190px;
+  height: 220px;
+}
+
+.top_70_46_42_44_6 {
+  position: absolute;
+  top: 113px;
+  left: 131px;
+  width: 200px;
+  height: 220px;
+}
+
+.top_70_49_46_47_6 {
+  position: absolute;
+  top: 116px;
+  left: 126px;
+  width: 210px;
+  height: 220px;
+}
+
+.top_70_53_50_49_6 {
+  position: absolute;
+  top: 116px;
+  left: 126px;
+  width: 210px;
+  height: 220px;
+}
+
+.top_70_56_54_52_6 {
+  position: absolute;
+  top: 122px;
+  left: 120px;
+  width: 220px;
+  height: 220px;
+}
+
+
+/*-------------  Shirt Height 70 from Hips ------------------ */
+
+.top_70_33_27_31_6 {
+  position: absolute;
+  top: 135px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_70_34_29_35_6 {
+  position: absolute;
+  top: 135px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_70_38_33_39_6 {
+  position: absolute;
+  top: 135px;
+  left: 130px;
+  width: 200px;
+  height: 185px;
+}
+
+.top_70_48_43_47_6 {
+  position: absolute;
+  top: 133px;
+  left: 127px;
+  width: 210px;
+  height: 185px;
+}
+
+.top_70_52_48_51_6 {
+  position: absolute;
+  top: 133px;
+  left: 120px;
+  width: 220px;
+  height: 185px;
+}
+
+.top_70_56_52_55_6 {
+  position: absolute;
+  top: 127px;
+  left: 110px;
+  width: 240px;
+  height: 210px;
+}
+
+/*-------------  Shirt Height 74 from Chest ------------------ */
+
+.top_74_31_28_36_6 {
+  position: absolute;
+  top: 110px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_35_30_37_6 {
+  position: absolute;
+  top: 108px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_39_34_41_6 {
+  position: absolute;
+  top: 108px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_43_38_43_6 {
+  position: absolute;
+  top: 108px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_47_43_47_6 {
+  position: absolute;
+  top: 108px;
+  left: 124px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_74_51_45_48_6 {
+  position: absolute;
+  top: 110px;
+  left: 124px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_74_55_49_50_6 {
+  position: absolute;
+  top: 115px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_74_59_52_52_6 {
+  position: absolute;
+  top: 115px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 74 from Waist ------------------ */
+
+.top_74_33_22_36_6 {
+  position: absolute;
+  top: 110px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_33_26_36_6 {
+  position: absolute;
+  top: 110px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_46_42_45_6 {
+  position: absolute;
+  top: 111px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_74_49_46_47_6 {
+  position: absolute;
+  top: 111px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_74_52_50_50_6 {
+  position: absolute;
+  top: 118px;
+  left: 119px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_74_56_54_52_6 {
+  position: absolute;
+  top: 118px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 74 from Hips ------------------ */
+
+.top_74_34_29_31_6 {
+  position: absolute;
+  top: 110px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_34_29_35_6 {
+  position: absolute;
+  top: 110px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_38_33_39_6 {
+  position: absolute;
+  top: 110px;
+  left: 129px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_74_52_48_51_6 {
+  position: absolute;
+  top: 110px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_74_56_52_55_6 {
+  position: absolute;
+  top: 108px;
+  left: 116px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 78 from Chest ------------------ */
+
+.top_78_31_30_37_6 {
+  position: absolute;
+  top: 93px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.top_78_35_30_35_6 {
+  position: absolute;
+  top: 89px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_78_39_34_41_6 {
+  position: absolute;
+  top: 89px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.top_78_43_39_44_6 {
+  position: absolute;
+  top: 94px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_78_47_43_47_6 {
+  position: absolute;
+  top: 94px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_78_51_48_51_6 {
+  position: absolute;
+  top: 94px;
+  left: 119px;
+  width: 220px;
+  height: 200px;
+}
+.top_78_55_52_55_6 {
+  position: absolute;
+  top: 94px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_78_59_53_53_6 {
+  position: absolute;
+  top: 94px;
+  left: 114px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 78 from Waist ------------------ */
+
+.top_78_34_22_37_6 {
+  position: absolute;
+  top: 93px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_78_33_26_37_6 {
+  position: absolute;
+  top: 93px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_78_42_38_43_6 {
+  position: absolute;
+  top: 93px;
+  left: 127px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_78_46_42_46_6 {
+  position: absolute;
+  top: 97px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_78_48_46_48_6 {
+  position: absolute;
+  top: 97px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_78_52_50_50_6 {
+  position: absolute;
+  top: 97px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_78_56_54_53_6 {
+  position: absolute;
+  top: 97px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 78 from Hips ------------------ */
+
+.top_78_35_30_31_6 {
+  position: absolute;
+  top: 93px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+.top_78_37_33_39_6 {
+  position: absolute;
+  top: 93px;
+  left: 130px;
+  width: 200px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 82 from Chest ------------------ */
+
+.top_82_31_31_39_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_82_35_33_40_6 {
+  position: absolute;
+  top: 77px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_39_34_41_6 {
+  position: absolute;
+  top: 77px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_43_40_44_6 {
+  position: absolute;
+  top: 77px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_47_44_47_6 {
+  position: absolute;
+  top: 77px;
+  left: 117px;
+  width: 230px;
+  height: 200px;
+}
+
+
+.top_82_51_48_51_6 {
+  position: absolute;
+  top: 77px;
+  left: 117px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_82_55_50_52_6 {
+  position: absolute;
+  top: 77px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_82_59_54_54_6 {
+  position: absolute;
+  top: 77px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+
+/*-------------  Shirt Height 82 from Waist ------------------ */
+
+.top_82_34_22_38_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+.top_82_34_26_38_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_82_34_30_38_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_82_42_38_43_6 {
+  position: absolute;
+  top: 78px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_45_42_46_6 {
+  position: absolute;
+  top: 78px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_48_46_48_6 {
+  position: absolute;
+  top: 78px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_52_50_51_6 {
+  position: absolute;
+  top: 78px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_82_56_54_53_6 {
+  position: absolute;
+  top: 78px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+
+/*-------------  Shirt Height 82 from Hips ------------------ */
+
+.top_82_36_32_31_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_82_36_32_35_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_82_37_33_39_6 {
+  position: absolute;
+  top: 76px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_82_46_43_47_6 {
+  position: absolute;
+  top: 78px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_82_51_48_55_6 {
+  position: absolute;
+  top: 82px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 86 from Chest ------------------ */
+
+.top_86_31_32_39_6 {
+  position: absolute;
+  top: 66px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_86_35_30_39_6 {
+  position: absolute;
+  top: 66px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_86_39_34_42_6 {
+  position: absolute;
+  top: 66px;
+  left: 125px;
+  width: 210px;
+  height: 200px;
+}
+
+.top_86_43_40_45_6 {
+  position: absolute;
+  top: 73px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_47_44_48_6 {
+  position: absolute;
+  top: 71px;
+  left: 120px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_51_47_50_6 {
+  position: absolute;
+  top: 73px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_86_55_51_52_6 {
+  position: absolute;
+  top: 72px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_86_59_54_54_6 {
+  position: absolute;
+  top: 70px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 86 from Waist ------------------ */
+
+.top_86_35_22_39_6 {
+  position: absolute;
+  top: 71px;
+  left: 122px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_35_26_39_6 {
+  position: absolute;
+  top: 71px;
+  left: 122px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_41_38_43_6 {
+  position: absolute;
+  top: 70px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_45_42_46_6 {
+  position: absolute;
+  top: 70px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_48_46_48_6 {
+  position: absolute;
+  top: 70px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_53_50_51_6 {
+  position: absolute;
+  top: 71px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_86_56_54_54_6 {
+  position: absolute;
+  top: 71px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+/*-------------  Shirt Height 86 from Hips ------------------ */
+
+.top_86_36_32_31_6 {
+  position: absolute;
+  top: 71px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_36_32_35_6 {
+  position: absolute;
+  top: 71px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_37_33_39_6 {
+  position: absolute;
+  top: 71px;
+  left: 121px;
+  width: 220px;
+  height: 200px;
+}
+
+.top_86_46_43_47_6 {
+  position: absolute;
+  top: 72px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_86_50_48_51_6 {
+  position: absolute;
+  top: 71px;
+  left: 115px;
+  width: 230px;
+  height: 200px;
+}
+
+.top_86_54_52_55_6 {
+  position: absolute;
+  top: 51px;
+  left: 116px;
+  width: 230px;
+  height: 220px;
+}
+
+
+/*-------------  Jeans Height 58 from Chest ------------------ */
+
+
+/* .bottom_70_39_34_40_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 183px;
+  width: 100px;
+  height: 162px;
+}
+
+.bottom_70_39_34_40_8 img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+} */
+
+.bottom_58_31_24_31_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_35_29_35_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_39_33_39_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_43_38_41_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 140px;
+}
+
+.bottom_58_47_42_43_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_51_43_45_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 162px;
+}
+
+.bottom_58_55_46_47_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 162px;
+}
+
+.bottom_58_59_50_49_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 162px;
+}
+
+/*-------------  Jeans Height 58 from Waist ------------------ */
+
+.bottom_58_29_22_31_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_32_26_33_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_36_30_36_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_40_34_39_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 132px;
+}
+
+.bottom_58_44_38_43_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_58_50_46_46_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_58_53_50_48_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_58_57_54_51_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+
+/*-------------  Jeans Height 58 from Hips ------------------ */
+
+.bottom_58_49_43_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_58_53_48_51_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_58_57_52_55_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+
+/*-------------  Jeans Height 62 from Chest ------------------ */
+
+.bottom_62_31_24_31_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_35_29_35_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_39_33_39_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_43_36_41_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_47_40_43_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_51_43_45_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_55_47_48_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_62_59_50_50_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+/*-------------  Jeans Height 62 from Waist ------------------ */
+
+.bottom_62_30_22_32_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_32_26_33_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_35_30_36_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_40_34_39_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_44_38_43_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_46_42_44_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 142px;
+}
+
+.bottom_62_50_46_46_8 {
+  position: absolute;
+  bottom: 58px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_62_53_50_48_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_62_57_54_51_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+
+/*-------------  Jeans Height 62 from Hips ------------------ */
+
+.bottom_62_48_43_47_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_62_53_48_51_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_62_57_52_55_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 160px;
+}
+
+
+/*-------------  Jeans Height 66 from Chest ------------------ */
+
+.bottom_66_31_25_31_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_35_29_35_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_39_33_39_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_43_38_43_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_47_41_44_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_51_44_46_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_55_48_48_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_59_51_51_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+
+
+/*-------------  Jeans Height 66 from Waist ------------------ */
+
+
+.bottom_66_31_22_33_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_32_26_34_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_35_30_37_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_40_34_39_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_46_42_44_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_49_46_46_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_53_50_49_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_56_54_52_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+
+/*-------------  Jeans Height 66 from Hips ------------------ */
+
+.bottom_66_48_43_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+.bottom_66_52_48_51_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 150px;
+}
+
+
+.bottom_66_56_52_55_8 {
+  position: absolute;
+  bottom: 68px;
+  left: 172px;
+  width: 120px;
+  height: 160px;
+}
+
+
+/*-------------  Jeans Height 70 from Chest ------------------ */
+
+
+.bottom_70_31_26_34_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 175px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_35_30_37_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_39_34_40_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_43_38_43_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_47_42_45_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_51_45_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_55_48_49_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_59_52_52_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 160px;
+}
+
+
+/*-------------  Jeans Height 70 from Waist ------------------ */
+
+.bottom_70_31_22_35_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 175px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_46_42_44_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 175px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_49_46_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_53_50_49_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_56_54_52_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+/*-------------  Jeans Height 70 from Hips ------------------ */
+
+.bottom_70_33_27_31_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 175px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_34_29_35_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_38_33_39_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_48_43_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_52_48_51_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 176px;
+  width: 110px;
+  height: 160px;
+}
+
+.bottom_70_56_52_55_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 177px;
+  width: 110px;
+  height: 170px;
+}
+
+/*-------------  Jeans Height 74 from Chest ------------------ */
+
+
+.bottom_74_31_28_36_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+
+.bottom_74_35_30_37_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+.bottom_74_39_34_41_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+.bottom_74_43_38_43_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+.bottom_74_47_43_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+.bottom_74_51_45_48_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+.bottom_74_55_49_50_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+.bottom_74_59_52_52_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 170px;
+}
+
+/*-------------  Jeans Height 74 from Waist ------------------ */
+
+.bottom_74_33_22_36_8 {
+  position: absolute;
+  bottom: 75px;
+  left: 171px;
+  width: 120px;
+  height: 165px;
+}
+.bottom_74_33_26_36_8 {
+  position: absolute;
+  bottom: 75px;
+  left: 171px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_46_42_45_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 165px;
+}
+.bottom_74_49_46_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_52_50_50_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_56_54_52_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 165px;
+}
+
+/*-------------  Jeans Height 74 from Hips ------------------ */
+
+.bottom_74_34_29_31_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 171px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_34_29_35_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 171px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_38_33_39_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 171px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_52_48_51_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 171px;
+  width: 120px;
+  height: 165px;
+}
+
+.bottom_74_56_52_55_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 173px;
+  width: 120px;
+  height: 170px;
+}
+
+/*-------------  Jeans Height 78 from Chest ------------------ */
+
+.bottom_78_31_30_37_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_35_30_35_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+.bottom_78_39_34_41_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+.bottom_78_43_39_44_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+.bottom_78_47_43_47_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+.bottom_78_51_48_51_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+.bottom_78_55_52_55_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+.bottom_78_59_53_53_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 175px;
+}
+
+/*-------------  Jeans Height 78 from Waist ------------------ */
+
+.bottom_78_34_22_37_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_33_26_37_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_42_38_43_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_46_42_46_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_48_46_48_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_52_50_50_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+.bottom_78_56_54_53_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 172px;
+}
+
+/*-------------  Jeans Height 78 from Hips ------------------ */
+
+.bottom_78_35_30_31_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 180px;
+}
+
+.bottom_78_37_33_39_8 {
+  position: absolute;
+  bottom: 65px;
+  left: 172px;
+  width: 120px;
+  height: 180px;
+}
+
+/*-------------  Jeans Height 82 from Chest ------------------ */
+
+.bottom_82_31_31_39_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_35_33_40_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_39_34_41_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_43_40_44_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_47_44_47_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_51_48_51_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_55_50_52_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_59_54_54_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+/*-------------  Jeans Height 82 from Waist ------------------ */
+
+.bottom_82_34_22_38_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_34_26_38_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_34_30_38_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_42_38_43_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_45_42_46_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_48_46_48_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_52_50_51_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_56_54_53_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+
+/*-------------  Jeans Height 82 from Hips ------------------ */
+
+.bottom_82_36_32_31_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_36_32_35_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_37_33_39_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_46_43_47_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_82_51_48_55_8 {
+  position: absolute;
+  bottom: 62px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+
+/*-------------  Jeans Height 86 from Chest ------------------ */
+
+.bottom_86_31_32_39_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_35_30_39_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_39_34_42_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_43_40_45_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_47_44_48_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_51_47_50_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_55_51_52_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_59_54_54_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+/*-------------  Jeans Height 86 from Waist ------------------ */
+
+.bottom_86_35_22_39_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_35_26_39_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_41_38_43_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_45_42_46_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+
+.bottom_86_48_46_48_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_53_50_51_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_56_54_54_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+
+/*-------------  Jeans Height 86 from Hips ------------------ */
+
+.bottom_86_36_32_31_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_36_32_35_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_37_33_39_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_46_43_47_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_50_48_51_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+.bottom_86_54_52_55_8 {
+  position: absolute;
+  bottom: 70px;
+  left: 172px;
+  width: 120px;
+  height: 190px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .formal_left {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  height: 100px;
+}
+
+.formal_left img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.formal_right {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100px;
+  height: 100px;
+}
+
+.formal_right img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+} */
+
+/* .colorRed,.colorBlue, .colorGreen {filter:grayscale(1);} */
+/* .colorRed:hover,.colorBlue:hover, .colorGreen:hover {filter:grayscale(0);} */
+/* .colorRed img:hover {filter:hue-rotate(0deg);}
+.colorBlue img:hover {filter:hue-rotate(215deg);}
+.colorGreen img:hover {filter:hue-rotate(100deg);} */
+
+.uploadcare--jcrop-holder>div>div {
+  border-radius: 50%;
+}
+
+
+
+/*----------------- Loader css ---------------------- */
+
+.loader_box {
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  /* margin: 0px auto; */
+  /* padding: 15px; */
+  /* width: 550px;
+  height: 200px; */
+  animation: myfirst 5000000000000000000000000s linear 10000000000000000000000s infinite alternate;
+}
+
+.loader_box img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@keyframes myfirst {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+

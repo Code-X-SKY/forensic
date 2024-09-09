@@ -1,0 +1,1272 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Sonsie+One&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    /* overflow-x: hidden; */
+}
+
+body {
+    /* background: #fff; */
+    overflow-x: hidden;
+    font-family: 'Sora';
+    font-family: 'Sonsie One';
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+
+/*------------------------- Header Section Start --------------------------- */
+
+header {
+    width: 100%;
+    height: auto;
+    background: #fff;
+    padding: 10px 0px;
+    box-shadow: 0px 1px 10px rgb(0 0 0 / 10%);
+}
+
+
+header .virtual_logo {
+    width: 100px;
+    height: auto;
+    object-fit: cover;
+}
+
+header .navbar-brand {
+    /* font-family: Sora; */
+    font-family: Sonsie One;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #000;
+}
+
+.headicons ul {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.headicons ul li a span {
+    font-size: 25px;
+    color: #000000;
+}
+
+.headicons ul li {
+    margin: 0px 10px;
+}
+
+header .navbar-nav {
+    opacity: 0;
+}
+
+.baricon {
+    font-size: 22px;
+    color: #000;
+}
+
+/* .searchhead {
+    border: 1px solid #676E84;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px 0px 0px;
+    border-color: #676E84;
+    display: none;
+}
+
+.searchhead input {
+    border: none;
+} */
+
+
+
+
+
+
+
+/*------------------------- Header Section Exit --------------------------- */
+
+
+
+/*------------------------- Login Section Start --------------------------- */
+
+.login,
+.signup,
+.checkmail,
+.changepassword,
+.forgetpassword {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.clothesbox {
+    width: 450px;
+    height: auto;
+}
+
+.clothesbox img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.filterone {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: fixed;
+    top: 100px;
+    left: -30px;
+    z-index: -1;
+    filter: blur(0px);
+    backdrop-filter: blur(50px);
+    background: linear-gradient(180deg, rgba(80, 80, 80, 0.71) 0%, rgba(97, 97, 97, 0.810781) 30.89%, rgba(114, 114, 114, 0.62371) 61.43%, rgba(188, 188, 188, 0.33) 100%);
+    opacity: 0.1;
+    transform: rotate(41.83deg);
+}
+
+.filtertwo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 50px;
+    right: 25px;
+    z-index: -1;
+    filter: blur(0px);
+    backdrop-filter: blur(50px);
+    background: linear-gradient(180deg, rgba(80, 80, 80, 0.71) 0%, rgba(97, 97, 97, 0.810781) 30.89%, rgba(114, 114, 114, 0.62371) 61.43%, rgba(188, 188, 188, 0.33) 100%);
+    opacity: 0.15;
+    transform: rotate(-100.33deg);
+}
+
+.circlebox1 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    bottom: -75px;
+    left: 15%;
+    z-index: -1;
+}
+
+.circlebox2 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 10px;
+    right: 15%;
+    z-index: -1;
+}
+
+
+.circlebox1 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+.circlebox2 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transform: rotate(130deg);
+}
+
+.logintextbox form h4 {
+    font-family: Sora;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #161618;
+}
+
+.logintextbox form label {
+    color: #4C4C4D;
+    font-family: Sora;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0px;
+}
+
+.googlebtn img {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.googlebtn button {
+    opacity: 1 !important;
+}
+
+
+
+.googlebtn a {
+    text-decoration: none;
+    color: #000000;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+}
+
+.googlebtn {
+    background: #FAFBFF;
+    box-shadow: 0px 0px 4px #000000;
+    border-radius: 10px;
+    padding: 5px 65px;
+    text-align: center;
+}
+
+.logintextbox form input::placeholder {
+    color: #4C4C4D;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+}
+
+.logintextbox form input:focus {
+    box-shadow: none;
+    border-color: #676E84;
+}
+
+
+.orline p {
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #505356;
+    margin-bottom: 0px;
+}
+
+.orline::before {
+    content: '';
+    position: absolute;
+    top: 15px;
+    left: 0px;
+    width: 45%;
+    height: 1px;
+    background: #333348;
+}
+
+.orline {
+    position: relative;
+}
+
+.orline::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    width: 45%;
+    height: 1px;
+    background: #333348;
+}
+
+
+.orline::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    width: 45%;
+    height: 1px;
+    background: #333348;
+}
+
+.submit.btn {
+    padding: 13px;
+    background: #000000;
+    box-shadow: 0px 0px 4px #000000;
+    border-radius: 10px;
+    width: 100%;
+    color: #fff;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.submit.btn:hover,
+.submit.btn:focus,
+.submit.btn.active {
+    color: #fff;
+    background: #000000;
+    box-shadow: 0px 0px 4px #000000;
+}
+
+.forgotpass {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.forgotpass a {
+    text-decoration: none;
+    color: #2F68FC;
+    font-family: Sora;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.passwordinner input {
+    background: transparent !important;
+    border: none;
+}
+
+.passwordinner {
+    border: 1px solid #676E84;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px 0px 0px;
+    border-color: #676E84;
+}
+
+.logintextbox input {
+    border-color: #676E84;
+}
+
+.eyeicon {
+    color: #828E99;
+    font-size: 18px;
+}
+
+/*------------------------- Login Section Exit --------------------------- */
+
+
+
+/*------------------------- Signup Section Start  ---------------------------*/
+
+.checkblock {
+    display: flex;
+}
+
+.checkblock p {
+    color: #1B1C20;
+    font-family: Sora;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.checkblock a,
+.checkblock a:hover {
+    color: #1E419C;
+}
+
+.signaccount.form-label {
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #1B1B1E;
+}
+
+.signaccount a,
+.signaccount a:hover {
+    color: #284CAA;
+}
+
+.btn-check:checked+.btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check)+.btn:active {
+    color: #fff !important;
+    background: #000000 !important;
+    box-shadow: 0px 0px 4px #000000 !important;
+
+}
+
+/*------------------------- Signup Section Exit  ---------------------------*/
+
+
+
+
+
+
+/*------------------------- Forget Password Start  ---------------------------*/
+
+
+.formblock {
+    width: 100%;
+    height: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(36, 39, 57, 0.15);
+    border-radius: 10px;
+    /* padding: 99px 50px; */
+    margin-bottom: 35px;
+}
+
+.forgethead p {
+    color: #404040;
+    font-family: Sora;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.forgetback.form-label {
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #1B1B1E;
+}
+
+.forgetback.form-label a {
+    color: #284CAA;
+    text-decoration: none;
+}
+
+/*------------------------- Forget Password Exit  ---------------------------*/
+
+
+
+
+
+/*------------------------- Check Mail Start  ---------------------------*/
+
+.emailbox {
+    width: 150px;
+    height: auto;
+    margin: 0px auto;
+}
+
+.emailbox img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    text-align: center;
+    margin: 0px auto;
+}
+
+/*------------------------- Check Mail Exit  ---------------------------*/
+
+
+
+
+
+/*------------------------- Welcome Start  ---------------------------*/
+
+.welcome {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.welimgbox {
+    width: 100%;
+    height: auto;
+}
+
+.welimgbox img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.welbtnblock {
+    display: flex;
+    justify-content: space-around;
+}
+
+a.welcomebtn {
+    padding: 12px 24px;
+    background: #000000;
+    box-shadow: 0px 0px 4px #000000;
+    border-radius: 8px;
+    /* width: 100%; */
+    color: #fff;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+}
+
+a.welcomebtn:hover {
+    color: #fff;
+}
+
+.cartoonone,
+.cartoontwo {
+    width: 150px;
+    height: auto;
+}
+
+.cartoonone img,
+.cartoontwo img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+.cartoonone {
+    position: absolute;
+    bottom: 100px;
+    left: 250px;
+}
+
+.cartoontwo {
+    position: absolute;
+    bottom: 200px;
+    right: 250px;
+}
+
+/*------------------------- Welcome Exit  ---------------------------*/
+
+
+
+
+
+/*-------------------------  Existing User Start  ---------------------------*/
+
+.existinguser {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.logintextbox select {
+    border-color: #676E84;
+}
+
+.logintextbox select:focus {
+    box-shadow: none;
+    border-color: #676E84;
+}
+
+.exitform form {
+    padding: 60px;
+}
+.existable table thead tr th {
+    padding-left: 0px;
+}
+
+.existable table tbody tr td {
+    color: #1B1B20;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 15px 0px;
+    white-space: nowrap;
+}
+
+.exitform form input,
+.exitform form select,
+.exitform form textarea {
+    border-color: #676E84;
+}
+
+.exitform form input:focus,
+.exitform form select:focus,
+.exitform form textarea:focus {
+    box-shadow: none;
+    border-color: #676E84;
+}
+
+.existable table tbody tr td a {
+    text-decoration: none;
+}
+
+/*-------------------------  Existing User Exit  ---------------------------*/
+
+
+
+
+
+/*-------------------------  Customer Register Start  ---------------------------*/
+
+.customerregister {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+/*-------------------------  Customer Register Exit  ---------------------------*/
+
+
+
+
+
+
+/*-------------------------  Take Your Photo Start  ---------------------------*/
+
+.takephoto {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+
+/*-------------------------  Take Your Photo Exit  ---------------------------*/
+
+
+
+
+/*-------------------------  Body Measurements Start  ---------------------------*/
+
+.bodymeasurements {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+/*-------------------------  Body Measurements Exit  ---------------------------*/
+
+
+
+
+/*------------------------- Measurements Start  ---------------------------*/
+
+.measurements {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.bodyrange {
+    width: 100%;
+    height: auto;
+}
+
+.charector {
+    width: 100%;
+    height: auto;
+    background: #eaf0f3;
+    box-shadow: 0px 0px 15px rgb(36 39 57 / 15%);
+    border-radius: 10px;
+    position: relative;
+}
+
+.skinton {
+    width: 100%;
+    height: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgb(36 39 57 / 15%);
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rangecard.card {
+    width: 100%;
+    min-height: 550px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgb(36 39 57 / 15%);
+    border-radius: 10px;
+    border: none;
+}
+
+.rangecard.card h5 {
+    font-family: Sora;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #161618;
+}
+
+.rangecard.card p {
+    color: #1B1C20;
+    font-family: Sora;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.rangehead {
+    display: flex;
+    justify-content: space-between;
+}
+
+.charactorbox {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.charactorbox img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.skinton h4 {
+    font-family: Sora;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #161618;
+    text-align: center;
+}
+
+.colorton .multicolor:first-child,
+.colorton .multicolor:nth-child(2),
+.colorton .multicolor:nth-child(3),
+.colorton .multicolor:nth-child(4),
+.colorton .multicolor:nth-child(5),
+.colorton .multicolor:last-child {
+    padding: 15px;
+}
+
+.colorton .multicolor:first-child {
+    background: #F6D2BC;
+}
+
+.colorton .multicolor:nth-child(2) {
+    background: #F5C7AC;
+}
+
+.colorton .multicolor:nth-child(3) {
+    background: #D5A789;
+}
+
+.colorton .multicolor:nth-child(4) {
+    background: #E2A88C;
+}
+
+.colorton .multicolor:nth-child(5) {
+    background: #D5A789;
+}
+
+.colorton .multicolor:last-child {
+    background: #9A684A;
+}
+
+a.clearbtn {
+    padding: 12px 24px;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgb(28 29 38 / 25%);
+    border-radius: 8px;
+    color: #191920;
+}
+
+a.clearbtn:hover {
+    color: #191920;
+}
+
+.zoomicons {
+    display: flex;
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 15%;
+    right: -33%;
+    width: 180px;
+    justify-content: space-between;
+    background: #E8E8E8;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+
+.zoomicons span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zoomrange {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 15px;
+}
+
+.filterbtnbox span {
+    font-size: 16px;
+    padding-left: 10px;
+    color: #fff;
+}
+
+.rangeslide {
+    filter: grayscale(1);
+}
+
+/*------------------------- Measurements Exit  ---------------------------*/
+
+
+
+
+
+
+/*------------------------- Fitting T-Shirts Start  ---------------------------*/
+
+.fittingtshirts {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.category {
+    width: 100%;
+    height: auto;
+}
+
+.catagorylinks h4 {
+    font-family: Sora;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #25282C;
+}
+
+.catagorylinks ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.catagorylinks ul li {
+    margin-bottom: 10px;
+}
+
+.catagorylinks ul li a {
+    color: #32353A;
+    text-decoration: none;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.category h3 {
+    font-family: Sora;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #25282C;
+}
+
+
+/*--------------------------------- Silder Start ------------------------------------- */
+
+.slider {
+    width: 100%;
+    height: auto;
+}
+
+.slider .item-slide {
+    padding: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgb(36 39 57 / 15%);
+    border-radius: 10px;
+    height: 120px;
+    width: 120px !important;
+    cursor: pointer;
+}
+
+.slider .item-slide:focus {
+    outline: none;
+}
+
+.slider .item-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 12px;
+}
+
+.slider .slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 2px solid #1a8ea7;
+    outline: none;
+    background: transparent;
+    border-radius: 50%;
+}
+
+.slider .slick-vertical .slick-slide {
+    text-align: center;
+}
+
+.slider .slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #1a8ea7;
+}
+
+.slider .slick-dots li button:before {
+    color: #ccc;
+}
+
+.slick-dots li button:hover:before {
+    color: #ccc;
+}
+
+.slider .slick-prev:before,
+.slider .slick-next:before {
+    font-family: 'slick';
+    font-size: 18px;
+    opacity: 1;
+    color: #13151C;
+    width: 100px;
+    height: 100px;
+}
+
+.slider .slick-slide.slick-active.slick-center.slick-current {
+    transform: scale(1.09);
+    padding: 0px 15px;
+}
+
+
+.slider .slick-dots {
+    position: absolute;
+    bottom: -40px;
+    display: none !important;
+}
+
+/* .mainslider {
+    transform: rotate(90deg);
+} */
+
+.slider .slick-prev,
+.slider .slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: #F2F9FF;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgb(84 84 84 / 20%);
+}
+
+.slider .slick-prev {
+    top: 160px;
+    left: 340px;
+}
+
+.slider .slick-next {
+    right: 370px;
+    top: 160px;
+}
+
+.fittingicons {
+    display: flex;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 50%;
+    left: 78%;
+    width: 180px;
+    justify-content: space-between;
+    background: #E8E8E8;
+    box-shadow: 0px 0px 4px rgb(0 0 0 / 25%);
+    border-radius: 25px;
+    padding: 5px 15px;
+}
+
+.fitcharactor {
+    width: 100%;
+    height: 650px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.fitcharactor img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+/*--------------------------------- Silder Exit ------------------------------------- */
+
+
+/* .lengthbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+
+.lengthbox h4 {
+    color: #25282C;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.one {
+    width: 100%;
+    height: 100px;
+    background: antiquewhite;
+}
+
+.lengthbox form {
+    width: 100%;
+}
+
+.lengthbox form input {
+    text-align: center;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.lengthbox form input:focus {
+    box-shadow: none;
+    border-color: #ccc;
+}
+
+.dressbox {
+    padding: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgb(36 39 57 / 15%);
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.dressbox img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.selectitem {
+    width: 100%;
+}
+
+.addittem p {
+    margin-bottom: 0px;
+    font-family: Sora;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.addittem span {
+    font-size: 14px;
+}
+
+.addittem {
+    text-align: center;
+}
+
+.googlebtn button {
+    box-shadow: none !important;
+    border: none !important;
+    color: #000 !important;
+}
+
+/*------------------------- Fitting T-Shirts Exit  ---------------------------*/
+
+.logintextbox h4 {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px) {
+
+    header .navbar-nav {
+        display: none;
+    }
+
+    .zoomicons {
+        position: absolute;
+        bottom: 20%;
+        right: 0px;
+    }
+
+    .circlebox1 {
+        position: absolute;
+        bottom: -75px;
+        left: 0px;
+    }
+
+    .cartoonone,
+    .cartoontwo {
+        width: 85px;
+        height: auto;
+    }
+
+    .cartoontwo {
+        position: absolute;
+        bottom: 180px;
+        right: 30px;
+    }
+
+    .cartoonone {
+        position: absolute;
+        bottom: 100px;
+        left: 30px;
+    }
+
+    .slider .slick-next {
+        right: 135px;
+        top: 160px;
+    }
+
+    .slider .slick-prev {
+        top: 160px;
+        left: 135px;
+    }
+
+
+
+}
+
+.tophead {
+    display: flex;
+    justify-content: space-between;
+}
+.tophead a {
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.tophead a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+.take_photo {
+    color: #333;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.take_photo:hover {
+    color: #333;
+}
+
+.take_photo span i {
+    color: #333;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.dressbox {
+    position: relative;
+}
+
+.dressbox i {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 14px;
+}
+
+
+
+button.uploadcare--widget__button.uploadcare--widget__button_type_open {
+    padding: 12px 50px;
+    background: #000000;
+    box-shadow: 0px 0px 4px #000000;
+    border-radius: 8px;
+    /* width: 100%; */
+    color: #fff;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+.uploadcare--text.uploadcare--text_size_extra-large {
+    text-transform: capitalize;
+}
